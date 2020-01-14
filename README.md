@@ -1,7 +1,7 @@
 # Completed Courses
 - [Python for Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - [Introduction to SQL with Google Bigquery](https://www.kaggle.com/learn/intro-to-sql)
- - [Certificate](https://www.kaggle.com/learn/certification/lyraxvinns/intro-to-sql)
+  - [Certificate](https://www.kaggle.com/learn/certification/lyraxvinns/intro-to-sql)
 
 
 ## Overall (Machine Learning in general) Resources
