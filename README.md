@@ -5,7 +5,8 @@
 - [Git](https://www.udemy.com/course/git-going-fast/)
 
 
-## Overall (Machine Learning in general) Resources
+## Overall Resources
+- [Data Science Crash Course(Theory Introduction)](https://towardsdatascience.com/data-science-crash-course-6d8e03390f6b)
 - [Blog posts by MarcoPiexeiro on Machine Learning](https://towardsdatascience.com/@marcopeixeiro)
 - [The Complete Hands on Machine Learning crash course](https://towardsdatascience.com/the-complete-hands-on-machine-learning-crash-course-59e43c8cee52)
 	
