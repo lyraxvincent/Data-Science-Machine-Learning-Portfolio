@@ -8,3 +8,4 @@ As is implied by the names "Tree" and "Forest," a Random Forest is essentially a
 - [A Friendly Introduction to Random Forest(Theory)](https://medium.com/capital-one-tech/random-forest-algorithm-for-machine-learning-c4b2c8cc9feb)
 - [Complete guide to Decision Trees(By Marco Peixeiro)](https://towardsdatascience.com/the-complete-guide-to-decision-trees-17a874301448)
 - [A practical End-to-End Random Forest algorithm example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+- [Decision Trees: Understanding the Basis of Ensemble Methods](https://towardsdatascience.com/decision-trees-understanding-the-basis-of-ensemble-methods-e075d5bfa704)
