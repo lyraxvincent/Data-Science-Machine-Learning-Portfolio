@@ -5,7 +5,9 @@
   - [Certificate](https://www.kaggle.com/learn/certification/lyraxvinns/intro-to-sql)
 - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
   - [Certificate](https://www.kaggle.com/learn/certification/lyraxvinns/advanced-sql)
-- [Git](https://www.udemy.com/course/git-going-fast/)
+- [Git](https://www.udemy.com/course/git-going-fast/)  
+  
+[View All](https://www.linkedin.com/in/vincent-njonge-528070178/)
 
 
 ## Overall Resources
